@@ -74,6 +74,7 @@ world-happiness-eda/
 ├── src/                     
 ├── reports/                 # Reportes y presentaciones
 │   ├── Dashboard.pptx
+|   |── Dashboard.pdf
 │   └── MEMORIA.md
 ├── README.md                # Este archivo
 └── .gitignore
