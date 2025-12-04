@@ -69,64 +69,21 @@ Este repositorio contiene un Análisis Exploratorio de Datos (EDA) completo del 
 world-happiness-eda/
 ├── data/                    # Datasets originales y procesados
 ├── notebooks/               # Cuadernos de análisis
-│   ├── 01_data_cleaning.ipynb
-│   ├── 02_univariate_analysis.ipynb
-│   ├── 03_multivariate_analysis.ipynb
-│   └── 04_temporal_analysis.ipynb
-├── src/                     # Código fuente modular
-│   ├── data_cleaning.py
-│   ├── visualization.py
-│   └── analysis_functions.py
+│   ├── Limpieza.ipynb
+│   ├── Exploratorio.ipynb
+├── src/                     
 ├── reports/                 # Reportes y presentaciones
-│   ├── presentation.pptx
-│   └── EDA_Memoria.md
+│   ├── Dashboard.pptx
+│   └── MEMORIA.md
 ├── README.md                # Este archivo
-├── requirements.txt         # Dependencias
 └── .gitignore
 ```
-
-## **🚀 Cómo Reproducir el Análisis**
-
-### **Requisitos Previos**
-- Python 3.9 o superior
-- Git instalado
-
-### **Instalación**
-1. Clonar el repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/world-happiness-eda.git
-   cd world-happiness-eda
-   ```
-
-2. Crear y activar entorno virtual (recomendado):
-   ```bash
-   python -m venv venv
-   # En Windows:
-   venv\Scripts\activate
-   # En macOS/Linux:
-   source venv/bin/activate
-   ```
-
-3. Instalar dependencias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-### **Ejecución del Análisis**
-1. Ejecutar los cuadernos en orden:
-   ```bash
-   jupyter notebook notebooks/
-   ```
-   - `01_data_cleaning.ipynb`
-   - `02_univariate_analysis.ipynb`
-   - `03_multivariate_analysis.ipynb`
-   - `04_temporal_analysis.ipynb`
 
 ## **📈 Conclusiones Principales**
 
 ### **Validación de Hipótesis**
 ✅ **Confirmadas**:
-- Impacto significativo de COVID-19 en felicidad global
+- Impacto significativo de COVID-19 en las diferentes variables.
 - Apoyo social como factor más correlacionado
 - Dominancia consistente de países nórdicos
 - Efectos en cadena de conflictos socio-económicos
@@ -134,15 +91,6 @@ world-happiness-eda/
 ⚠️ **Parcialmente confirmada**:
 - Relación entre PIB y felicidad (presenta outliers significativos)
 
-### **Implicaciones para Políticas Públicas**
-1. **Prioridad al capital social**: Invertir en redes comunitarias y apoyo mutuo
-2. **Salud pública integral**: Sistemas robustos benefician bienestar físico y subjetivo
-3. **Enfoque multidimensional**: Combinar crecimiento económico con cohesión social y libertades individuales
-4. **Preparación para crisis**: Diseñar sistemas resilientes ante shocks globales interconectados
-
-
-## **📄 Licencia**
-Este proyecto está bajo la licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
 ## **✍️ Autor**
 **[Andrea Altamirano]** - Estudiante del Bootcamp de Data Science
