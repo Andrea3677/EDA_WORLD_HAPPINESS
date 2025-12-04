@@ -1,0 +1,59 @@
+,Ranking,Country,Country_Standardized,Standardized_Region,Continent,Year,Happiness score,GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices
+94,50,Belize,Belize,Central America,America,2017,5.956,4.8535,0.67145,60,0.83177
+95,49,Belize,Belize,Central America,America,2018,5.9556,4.89207,0.67145,63,0.81818
+240,12,Costa Rica,Costa Rica,Central America,America,2017,7.079,5.93183,0.87944,69,0.88133
+241,13,Costa Rica,Costa Rica,Central America,America,2018,7.0717,6.12525,0.88351,71,0.87169
+242,12,Costa Rica,Costa Rica,Central America,America,2019,7.1674,6.14128,0.88758,76,0.88402
+243,15,Costa Rica,Costa Rica,Central America,America,2020,7.1214,6.38461,0.8884,71,0.9304
+244,16,Costa Rica,Costa Rica,Central America,America,2021,7.0694,6.47464,0.82391,71,0.93933
+245,23,Costa Rica,Costa Rica,Central America,America,2022,6.582,7.17062,0.79887,79,0.89372
+246,23,Costa Rica,Costa Rica,Central America,America,2023,6.6085,7.21454,0.82705,70,0.88549
+247,12,Costa Rica,Costa Rica,Central America,America,2024,6.9554,7.29097,0.84936,75,0.9226
+304,45,El Salvador,El Salvador,Central America,America,2017,6.003,4.86317,0.73398,65,0.65697
+305,40,El Salvador,El Salvador,Central America,America,2018,6.1668,4.8866,0.74934,67,0.63587
+306,35,El Salvador,El Salvador,Central America,America,2019,6.2531,4.71618,0.7647,72,0.68144
+307,34,El Salvador,El Salvador,Central America,America,2020,6.3483,4.87377,0.74271,66,0.7559
+308,49,El Salvador,El Salvador,Central America,America,2021,6.0605,4.82622,0.57554,66,0.85967
+309,49,El Salvador,El Salvador,Central America,America,2022,6.12,5.72506,0.58176,75,0.89984
+310,50,El Salvador,El Salvador,Central America,America,2023,6.1216,5.80835,0.64474,66,0.92432
+311,33,El Salvador,El Salvador,Central America,America,2024,6.4687,5.91016,0.66796,72,0.94521
+392,29,Guatemala,Guatemala,Central America,America,2017,6.454,4.6612,0.77959,63,0.80716
+393,30,Guatemala,Guatemala,Central America,America,2018,6.3819,4.73802,0.7807299999999999,66,0.83412
+394,27,Guatemala,Guatemala,Central America,America,2019,6.4362,4.75186,0.78187,71,0.84722
+395,29,Guatemala,Guatemala,Central America,America,2020,6.3989,4.9055,0.75878,65,0.88443
+396,30,Guatemala,Guatemala,Central America,America,2021,6.4345,4.82532,0.67397,65,0.89069
+397,39,Guatemala,Guatemala,Central America,America,2022,6.2622,5.76466,0.62965,72,0.89476
+398,43,Guatemala,Guatemala,Central America,America,2023,6.1503,5.85171,0.73362,63,0.81813
+399,42,Guatemala,Guatemala,Central America,America,2024,6.287,5.88421,0.72309,69,0.85171
+413,91,Honduras,Honduras,Central America,America,2017,5.181,3.90521,0.71027,64,0.5288
+414,72,Honduras,Honduras,Central America,America,2018,5.504,3.75752,0.73581,67,0.63304
+415,59,Honduras,Honduras,Central America,America,2019,5.8604,3.81447,0.76135,73,0.8034
+416,56,Honduras,Honduras,Central America,America,2020,5.9532,3.89649,0.76679,67,0.81952
+417,59,Honduras,Honduras,Central America,America,2021,5.9192,4.01677,0.67134,67,0.80778
+418,55,Honduras,Honduras,Central America,America,2022,6.0221,5.02979,0.6705,73,0.78665
+419,53,Honduras,Honduras,Central America,America,2023,6.0225,5.06831,0.66162,64,0.79509
+420,61,Honduras,Honduras,Central America,America,2024,5.9684,5.09547,0.64055,70,0.83384
+695,25,Mexico,Mexico,Central America,America,2017,6.578,6.16423,0.75182,68,0.62701
+696,24,Mexico,Mexico,Central America,America,2018,6.4882,6.29594,0.78335,70,0.66142
+697,23,Mexico,Mexico,Central America,America,2019,6.5945,6.35232,0.81488,74,0.68613
+698,24,Mexico,Mexico,Central America,America,2020,6.465,6.66626,0.79243,68,0.79896
+699,36,Mexico,Mexico,Central America,America,2021,6.3168,6.43272,0.70778,69,0.81706
+700,46,Mexico,Mexico,Central America,America,2022,6.1276,7.0224,0.67101,75,0.83965
+701,36,Mexico,Mexico,Central America,America,2023,6.3295,7.04829,0.72157,66,0.81857
+702,25,Mexico,Mexico,Central America,America,2024,6.678,7.10455,0.76782,72,0.83642
+783,43,Nicaragua,Nicaragua,Central America,America,2017,6.071,3.94116,0.79923,66,0.67991
+784,41,Nicaragua,Nicaragua,Central America,America,2018,6.141,4.05262,0.8075,68,0.72707
+785,45,Nicaragua,Nicaragua,Central America,America,2019,6.105,4.12021,0.81577,73,0.68852
+786,46,Nicaragua,Nicaragua,Central America,America,2020,6.1371,4.0349,0.82117,68,0.80793
+787,55,Nicaragua,Nicaragua,Central America,America,2021,5.9721,3.96098,0.77138,68,0.77172
+788,45,Nicaragua,Nicaragua,Central America,America,2022,6.1646,5.00014,0.77965,75,0.8334
+789,40,Nicaragua,Nicaragua,Central America,America,2023,6.2588,5.0397,0.79769,66,0.85515
+790,43,Nicaragua,Nicaragua,Central America,America,2024,6.2839,5.1262,0.78144,72,0.91901
+833,30,Panama,Panama,Central America,America,2017,6.452,6.59488,0.85261,68,0.83559
+834,27,Panama,Panama,Central America,America,2018,6.43,6.74448,0.8702300000000001,70,0.82386
+835,31,Panama,Panama,Central America,America,2019,6.3213,6.82503,0.88785,75,0.8169
+836,36,Panama,Panama,Central America,America,2020,6.3048,7.14313,0.88923,70,0.8364
+837,41,Panama,Panama,Central America,America,2021,6.1796,7.413,0.83269,70,0.83302
+838,37,Panama,Panama,Central America,America,2022,6.3091,7.76178,0.83838,78,0.80043
+839,38,Panama,Panama,Central America,America,2023,6.2645,7.7909,0.86551,69,0.81663
+840,39,Panama,Panama,Central America,America,2024,6.3582,7.95002,0.8611,74,0.83389

@@ -1,0 +1,122 @@
+,Ranking,Country,Country_Standardized,Standardized_Region,Continent,Year,Happiness score,GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices
+34,121,Armenia,Armenia,Western Asia,Asia,2017,4.376,4.81405,0.62554,66,0.30126
+35,129,Armenia,Armenia,Western Asia,Asia,2018,4.3206,4.95064,0.637635,68,0.35902
+36,116,Armenia,Armenia,Western Asia,Asia,2019,4.5594,5.04787,0.64973,73,0.44773
+37,116,Armenia,Armenia,Western Asia,Asia,2020,4.6768,5.25981,0.66852,67,0.54535
+38,86,Armenia,Armenia,Western Asia,Asia,2021,5.2826,5.69131,0.64658,67,0.7539
+39,82,Armenia,Armenia,Western Asia,Asia,2022,5.3986,6.49102,0.62118,76,0.75348
+40,79,Armenia,Armenia,Western Asia,Asia,2023,5.3417,6.66532,0.70009,68,0.71402
+41,81,Armenia,Armenia,Western Asia,Asia,2024,5.4549,6.7441,0.71415,73,0.75317
+58,85,Azerbaijan,Azerbaijan,Western Asia,Asia,2017,5.234,6.16647,0.71552,63,0.60487
+59,87,Azerbaijan,Azerbaijan,Western Asia,Asia,2018,5.2006,6.20973,0.71108,66,0.59332
+60,90,Azerbaijan,Azerbaijan,Western Asia,Asia,2019,5.2077,6.19207,0.70664,72,0.55679
+61,89,Azerbaijan,Azerbaijan,Western Asia,Asia,2020,5.1648,6.44425,0.76288,66,0.67468
+62,90,Azerbaijan,Azerbaijan,Western Asia,Asia,2021,5.1708,5.85365,0.71746,66,0.73492
+63,92,Azerbaijan,Azerbaijan,Western Asia,Asia,2022,5.1734,6.599,0.82811,73,0.81198
+64,99,Azerbaijan,Azerbaijan,Western Asia,Asia,2024,4.8934,6.69424,0.54171,70,0.77392
+65,41,Bahrain,Bahrain,Western Asia,Asia,2017,6.087,7.95617,0.82151,66,0.81542
+66,43,Bahrain,Bahrain,Western Asia,Asia,2018,6.1051,8.11235,0.83189,68,0.82043
+67,37,Bahrain,Bahrain,Western Asia,Asia,2019,6.1994,8.08631,0.84227,74,0.84863
+68,40,Bahrain,Bahrain,Western Asia,Asia,2020,6.2273,8.43829,0.84993,69,0.88046
+69,22,Bahrain,Bahrain,Western Asia,Asia,2021,6.6469,8.04848,0.76689,69,0.92328
+70,21,Bahrain,Bahrain,Western Asia,Asia,2022,6.6469,8.39134,0.77954,75,0.93632
+71,42,Bahrain,Bahrain,Western Asia,Asia,2023,6.1732,8.5584,0.7837,66,0.96993
+256,65,Cyprus,Cyprus,Western Asia,Asia,2017,5.621,7.24804,0.70246,72,0.53948
+257,61,Cyprus,Cyprus,Western Asia,Asia,2018,5.7625,7.45164,0.727875,73,0.58353
+258,49,Cyprus,Cyprus,Western Asia,Asia,2019,6.0458,7.50051,0.75329,77,0.64287
+259,45,Cyprus,Cyprus,Western Asia,Asia,2020,6.159,7.89236,0.74257,74,0.66264
+260,39,Cyprus,Cyprus,Western Asia,Asia,2021,6.2235,7.86375,0.65284,74,0.64801
+261,41,Cyprus,Cyprus,Western Asia,Asia,2022,6.2209,8.21521,0.68892,81,0.60557
+262,46,Cyprus,Cyprus,Western Asia,Asia,2023,6.13,8.29006,0.756,73,0.59029
+263,50,Cyprus,Cyprus,Western Asia,Asia,2024,6.0681,8.38021,0.75284,78,0.6125
+360,125,Georgia,Georgia,Western Asia,Asia,2017,4.286,5.08141,0.35429,66,0.47005
+361,128,Georgia,Georgia,Western Asia,Asia,2018,4.3405,5.17439,0.3821299999999999,67,0.51823
+362,119,Georgia,Georgia,Western Asia,Asia,2019,4.5191,5.26021,0.40997,72,0.54832
+363,117,Georgia,Georgia,Western Asia,Asia,2020,4.6726,5.51319,0.47248,64,0.7003
+364,108,Georgia,Georgia,Western Asia,Asia,2021,4.8914,5.88527,0.40074,64,0.68128
+365,105,Georgia,Georgia,Western Asia,Asia,2022,4.9732,6.64092,0.46345,74,0.68636
+366,90,Georgia,Georgia,Western Asia,Asia,2023,5.1091,6.71676,0.58458,65,0.69826
+367,89,Georgia,Georgia,Western Asia,Asia,2024,5.1847,6.85312,0.61243,71,0.78743
+469,117,Iraq,Iraq,Western Asia,Asia,2017,4.497,5.89443,0.60762,62,0.43837
+470,117,Iraq,Iraq,Western Asia,Asia,2018,4.4556,6.12391,0.60554,65,0.41918
+471,126,Iraq,Iraq,Western Asia,Asia,2019,4.4372,6.19404,0.60346,68,0.38121
+472,110,Iraq,Iraq,Western Asia,Asia,2020,4.7848,6.39054,0.65358,60,0.40906
+473,111,Iraq,Iraq,Western Asia,Asia,2021,4.8541,5.19779,0.54407,61,0.42152
+474,107,Iraq,Iraq,Western Asia,Asia,2022,4.9409,5.83318,0.51697,73,0.44382
+475,98,Iraq,Iraq,Western Asia,Asia,2023,4.9409,5.82354,0.58814,63,0.45558
+476,90,Iraq,Iraq,Western Asia,Asia,2024,5.166,5.83364,0.6161,70,0.49173
+485,11,Israel,Israel,Western Asia,Asia,2017,7.213,7.35198,0.85453,72,0.61677
+486,11,Israel,Israel,Western Asia,Asia,2018,7.19,7.54265,0.87522,73,0.64053
+487,13,Israel,Israel,Western Asia,Asia,2019,7.1387,7.57582,0.89591,77,0.58706
+488,14,Israel,Israel,Western Asia,Asia,2020,7.1286,7.9162,0.90675,73,0.60683
+489,12,Israel,Israel,Western Asia,Asia,2021,7.1571,7.8612,0.916,74,0.7109
+490,9,Israel,Israel,Western Asia,Asia,2022,7.3638,8.26439,0.92506,81,0.76704
+491,4,Israel,Israel,Western Asia,Asia,2023,7.4729,8.3349,0.93888,73,0.73689
+492,5,Israel,Israel,Western Asia,Asia,2024,7.3411,8.42288,0.93583,78,0.74301
+525,74,Jordan,Jordan,Western Asia,Asia,2017,5.336,5.29736,0.76935,65,0.63566
+526,90,Jordan,Jordan,Western Asia,Asia,2018,5.1607,4.98216,0.761795,67,0.64574
+527,101,Jordan,Jordan,Western Asia,Asia,2019,4.9057,4.97014,0.75424,73,0.60687
+528,119,Jordan,Jordan,Western Asia,Asia,2020,4.6334,5.10959,0.73672,67,0.61283
+529,127,Jordan,Jordan,Western Asia,Asia,2021,4.3946,5.08214,0.58467,67,0.63484
+530,134,Jordan,Jordan,Western Asia,Asia,2022,4.1521,5.99044,0.54861,77,0.64298
+531,123,Jordan,Jordan,Western Asia,Asia,2023,4.1198,5.87563,0.60493,68,0.67007
+532,122,Jordan,Jordan,Western Asia,Asia,2024,4.1858,5.89711,0.60807,73,0.68713
+557,39,Kuwait,Kuwait,Western Asia,Asia,2017,6.105,8.72879,0.78214,66,0.75403
+558,45,Kuwait,Kuwait,Western Asia,Asia,2018,6.0834,8.93673,0.79722,68,0.76508
+559,51,Kuwait,Kuwait,Western Asia,Asia,2019,6.0207,8.90841,0.8123,73,0.78065
+560,48,Kuwait,Kuwait,Western Asia,Asia,2020,6.1021,9.27218,0.80435,67,0.82257
+561,47,Kuwait,Kuwait,Western Asia,Asia,2021,6.1061,8.34399,0.73065,67,0.82487
+562,50,Kuwait,Kuwait,Western Asia,Asia,2022,6.1061,8.61713,0.74496,79,0.83419
+563,13,Kuwait,Kuwait,Western Asia,Asia,2024,6.9514,8.61974,0.84357,75,0.95743
+587,88,Lebanon,Lebanon,Western Asia,Asia,2017,5.225,5.74624,0.70138,69,0.43831
+588,88,Lebanon,Lebanon,Western Asia,Asia,2018,5.1989,5.84904,0.7276750000000001,70,0.40257
+589,91,Lebanon,Lebanon,Western Asia,Asia,2019,5.1973,5.86005,0.75397,73,0.34181
+590,111,Lebanon,Lebanon,Western Asia,Asia,2020,4.7715,5.78673,0.77056,67,0.2676
+591,123,Lebanon,Lebanon,Western Asia,Asia,2021,4.5838,5.96729,0.74031,67,0.24384
+592,145,Lebanon,Lebanon,Western Asia,Asia,2022,2.9553,6.30068,0.3773,75,0.13891
+593,136,Lebanon,Lebanon,Western Asia,Asia,2023,2.3922,6.44189,0.29385,66,0.15913
+594,139,Lebanon,Lebanon,Western Asia,Asia,2024,2.7065,6.43174,0.35676,72,0.20065
+827,103,Palestinian Territories,Palestine,Western Asia,Asia,2017,4.775,3.82864,0.71754,64,0.38695
+828,104,Palestinian Territories,Palestine,Western Asia,Asia,2018,4.7433,3.89563,0.742795,66,0.36738
+829,110,Palestinian Territories,Palestine,Western Asia,Asia,2019,4.6963,3.89877,0.76805,70,0.35633
+830,125,Palestinian Territories,Palestine,Western Asia,Asia,2020,4.5528,3.82526,0.77202,62,0.43086
+831,125,Palestinian Territories,Palestine,Western Asia,Asia,2021,4.5167,3.69013,0.69828,62,0.46105
+832,122,Palestinian Territories,Palestine,Western Asia,Asia,2022,4.4825,5.19565,0.72522,72,0.45454
+881,35,Qatar,Qatar,Western Asia,Asia,2017,6.375,10.0,0.79121,68,0.91779
+882,32,Qatar,Qatar,Western Asia,Asia,2018,6.3745,10.0,0.79996,69,0.90279
+883,29,Qatar,Qatar,Western Asia,Asia,2019,6.3745,10.0,0.80871,74,0.8797
+906,37,Saudi Arabia,Saudi Arabia,Western Asia,Asia,2017,6.344,8.1818,0.79889,64,0.68325
+907,33,Saudi Arabia,Saudi Arabia,Western Asia,Asia,2018,6.3709,8.36094,0.81719,67,0.70251
+908,28,Saudi Arabia,Saudi Arabia,Western Asia,Asia,2019,6.3747,8.33026,0.83549,72,0.69496
+909,27,Saudi Arabia,Saudi Arabia,Western Asia,Asia,2020,6.4065,8.68321,0.84646,66,0.79115
+910,26,Saudi Arabia,Saudi Arabia,Western Asia,Asia,2021,6.494,8.19593,0.82245,67,0.84216
+911,25,Saudi Arabia,Saudi Arabia,Western Asia,Asia,2022,6.5228,8.46181,0.82739,74,0.8794
+912,30,Saudi Arabia,Saudi Arabia,Western Asia,Asia,2023,6.4626,8.46003,0.84612,64,0.88341
+913,28,Saudi Arabia,Saudi Arabia,Western Asia,Asia,2024,6.5935,8.60725,0.84171,71,0.91172
+1001,99,State of Palestine,Palestine,Western Asia,Asia,2023,4.9078,5.20061,0.80811,39,0.53963
+1023,152,Syria,Syria,Western Asia,Asia,2017,3.462,4.1542,0.24594,62,0.12387
+1024,150,Syria,Syria,Western Asia,Asia,2018,3.4619,4.17681,0.239275,65,0.12185
+1025,149,Syria,Syria,Western Asia,Asia,2019,3.4619,3.67412,0.23261,66,0.02031
+1077,69,Turkey,Türkiye,Western Asia,Asia,2017,5.5,6.40526,0.83061,66,0.45688
+1078,74,Turkey,Türkiye,Western Asia,Asia,2018,5.4825,6.96361,0.8342449999999999,68,0.4476
+1079,79,Turkey,Türkiye,Western Asia,Asia,2019,5.3726,7.02743,0.83788,73,0.30869
+1080,93,Turkey,Türkiye,Western Asia,Asia,2020,5.1318,7.33511,0.77357,67,0.36696
+1081,104,Turkey,Türkiye,Western Asia,Asia,2021,4.9476,7.19412,0.69028,67,0.32981
+1082,112,Turkey,Türkiye,Western Asia,Asia,2022,4.7442,7.72532,0.65551,77,0.2825
+1083,106,Turkiye,Türkiye,Western Asia,Asia,2023,4.6135,7.79376,0.70874,69,0.16159
+1084,96,Turkiye,Türkiye,Western Asia,Asia,2024,4.9753,7.94937,0.72687,74,0.23407
+1107,21,United Arab Emirates,United Arab Emirates,Western Asia,Asia,2017,6.648,8.69346,0.78631,68,0.92419
+1108,20,United Arab Emirates,United Arab Emirates,Western Asia,Asia,2018,6.7741,8.89677,0.796495,70,0.92458
+1109,21,United Arab Emirates,United Arab Emirates,Western Asia,Asia,2019,6.8245,8.92248,0.80668,73,0.94804
+1110,21,United Arab Emirates,United Arab Emirates,Western Asia,Asia,2020,6.7908,9.31287,0.80848,67,0.94182
+1111,25,United Arab Emirates,United Arab Emirates,Western Asia,Asia,2021,6.5605,8.87917,0.73373,67,0.93587
+1112,24,United Arab Emirates,United Arab Emirates,Western Asia,Asia,2022,6.576,9.04366,0.74215,75,0.94864
+1113,26,United Arab Emirates,United Arab Emirates,Western Asia,Asia,2023,6.5712,9.16068,0.75511,66,0.96615
+1114,22,United Arab Emirates,United Arab Emirates,Western Asia,Asia,2024,6.7331,9.26467,0.72003,72,0.94401
+1163,146,Yemen,Yemen,Western Asia,Asia,2017,3.593,3.16279,0.58078,56,0.37898
+1164,152,Yemen,Yemen,Western Asia,Asia,2018,3.3549,2.67746,0.6484300000000001,60,0.33662
+1165,151,Yemen,Yemen,Western Asia,Asia,2019,3.3798,1.70365,0.71608,66,0.22665
+1166,146,Yemen,Yemen,Western Asia,Asia,2020,3.5274,2.55553,0.76086,57,0.35155
+1167,141,Yemen,Yemen,Western Asia,Asia,2021,3.6579,1.882,0.70904,57,0.3746
+1168,132,Yemen,Yemen,Western Asia,Asia,2022,4.1969,3.12954,0.78989,68,0.44537
+1169,130,Yemen,Yemen,Western Asia,Asia,2024,3.561,3.13606,0.79273,64,0.41974

@@ -1,0 +1,141 @@
+,Ranking,Country,Country_Standardized,Standardized_Region,Continent,Year,Happiness score,GDP per capita,Social support,Healthy life expectancy,Freedom to make life choices
+7,140,Afghanistan,Afghanistan,Southern Asia,Asia,2024,1.721,2.93451,0.0,62,0.0
+15,86,Albania,Albania,Southern Europe,Europa,2024,5.3042,6.71748,0.57133,74,0.79892
+23,84,Algeria,Algeria,Northern Africa,África,2024,5.3635,6.18327,0.73652,72,0.28611
+33,48,Argentina,Argentina,South America,America,2024,6.1881,7.29612,0.85449,73,0.78851
+41,81,Armenia,Armenia,Western Asia,Asia,2024,5.4549,6.7441,0.71415,73,0.75317
+49,10,Australia,Australia,Australia and New Zealand,Oceanía,2024,7.0569,8.66266,0.90385,76,0.87599
+57,14,Austria,Austria,Western Europe,Europa,2024,6.9047,8.80752,0.82671,76,0.81399
+64,99,Azerbaijan,Azerbaijan,Western Asia,Asia,2024,4.8934,6.69424,0.54171,70,0.77392
+79,126,Bangladesh,Bangladesh,Southern Asia,Asia,2024,3.8859,5.23988,0.15414,71,0.89752
+93,16,Belgium,Belgium,Western Europe,Europa,2024,6.8942,8.72705,0.89106,76,0.84413
+103,113,Benin,Benin,Western Africa,África,2024,4.3774,4.26801,0.0794,64,0.65654
+114,72,Bolivia,Bolivia,South America,America,2024,5.7843,5.68578,0.7296,70,0.83335
+122,64,Bosnia and Herzegovina,Bosnia and Herzegovina,Southern Europe,Europa,2024,5.877,6.84293,0.81541,73,0.71889
+130,134,Botswana,Botswana,Southern Africa,África,2024,3.3834,6.74926,0.59919,62,0.65642
+138,44,Brazil,Brazil,South America,America,2024,6.272,6.67841,0.78488,72,0.7937
+146,80,Bulgaria,Bulgaria,Eastern Europe,Europa,2024,5.4627,7.61209,0.9086,72,0.71861
+154,107,Burkina Faso,Burkina Faso,Western Africa,África,2024,4.548,3.53115,0.42378,63,0.55939
+167,116,Cambodia,Cambodia,South-eastern Asia,Asia,2024,4.3407,4.72308,0.63008,68,1.0
+175,101,Cameroon,Cameroon,Middle Africa,África,2024,4.8744,4.40662,0.52953,64,0.60374
+183,15,Canada,Canada,Northern America,America,2024,6.8996,8.59474,0.90232,76,0.84565
+195,110,Chad,Chad,Middle Africa,África,2024,4.4713,2.81849,0.49824,61,0.47621
+203,38,Chile,Chile,South America,America,2024,6.3603,7.55165,0.84687,76,0.75386
+211,60,China,China,Eastern Asia,Asia,2024,5.9727,6.99292,0.76627,74,0.81592
+219,77,Colombia,Colombia,South America,America,2024,5.6951,6.71288,0.76751,75,0.74585
+225,129,Comoros,Comoros,Eastern Africa,África,2024,3.5663,4.18371,0.2029,66,0.19937
+233,87,Congo (Brazzaville),Congo Republic,Middle Africa,África,2024,5.2215,4.16881,0.38471,64,0.60549
+239,136,Congo (Kinshasa),DR Congo,Middle Africa,África,2024,3.2954,2.49318,0.41119,63,0.54754
+247,12,Costa Rica,Costa Rica,Central America,America,2024,6.9554,7.29097,0.84936,75,0.9226
+255,62,Croatia,Croatia,Southern Europe,Europa,2024,5.9423,7.98916,0.89374,74,0.54346
+263,50,Cyprus,Cyprus,Western Asia,Asia,2024,6.0681,8.38021,0.75284,78,0.6125
+271,18,Czechia,Czechia,Eastern Europe,Europa,2024,6.8218,8.33065,0.93473,74,0.91101
+279,2,Denmark,Denmark,Northern Europe,Europa,2024,7.5827,8.91278,0.94051,76,0.95298
+287,68,Dominican Republic,Dominican Republic,Caribbean,America,2024,5.8228,7.08565,0.78657,71,0.84544
+295,73,Ecuador,Ecuador,South America,America,2024,5.7245,6.14556,0.7118,74,0.70203
+303,124,Egypt,Egypt,Northern Africa,África,2024,3.9766,6.4002,0.61604,70,0.56722
+311,33,El Salvador,El Salvador,Central America,America,2024,6.4687,5.91016,0.66796,72,0.94521
+319,34,Estonia,Estonia,Northern Europe,Europa,2024,6.4477,8.18422,0.94468,75,0.93287
+321,132,Eswatini,Eswatini,Southern Africa,África,2024,3.502,5.86448,0.57229,60,0.32912
+329,127,Ethiopia,Ethiopia,Eastern Africa,África,2024,3.8609,3.69798,0.56598,68,0.51069
+337,1,Finland,Finland,Northern Europe,Europa,2024,7.7407,8.61498,0.97268,76,0.99532
+345,27,France,France,Western Europe,Europa,2024,6.609,8.49487,0.83395,77,0.75269
+353,93,Gabon,Gabon,Middle Africa,África,2024,5.1063,6.55653,0.64189,66,0.59747
+359,109,Gambia,Gambia,Western Africa,África,2024,4.4849,3.50522,0.42303,65,0.53119
+367,89,Georgia,Georgia,Western Asia,Asia,2024,5.1847,6.85312,0.61243,71,0.78743
+375,24,Germany,Germany,Western Europe,Europa,2024,6.7185,8.74242,0.85967,76,0.81064
+383,117,Ghana,Ghana,Western Africa,África,2024,4.2894,5.0292,0.46219,66,0.72188
+391,63,Greece,Greece,Southern Europe,Europa,2024,5.9336,7.86686,0.7894,76,0.39053
+399,42,Guatemala,Guatemala,Central America,America,2024,6.287,5.88421,0.72309,69,0.85171
+407,95,Guinea,Guinea,Western Africa,África,2024,5.0233,3.88022,0.38454,62,0.60381
+420,61,Honduras,Honduras,Central America,America,2024,5.9684,5.09547,0.64055,70,0.83384
+424,85,Hong Kong,Hong Kong,Eastern Asia,Asia,2024,5.3164,8.91705,0.73273,81,0.56144
+436,56,Hungary,Hungary,Eastern Europe,Europa,2024,6.0169,8.04511,0.94537,73,0.67289
+444,3,Iceland,Iceland,Northern Europe,Europa,2024,7.5251,8.78627,1.0,77,0.94808
+452,123,India,India,Southern Asia,Asia,2024,4.0541,5.44809,0.40375,68,0.88795
+460,79,Indonesia,Indonesia,South-eastern Asia,Asia,2024,5.5683,6.36058,0.7326,69,0.90283
+468,98,Iran,Iran,Southern Asia,Asia,2024,4.9228,6.70486,0.70286,72,0.42336
+476,90,Iraq,Iraq,Western Asia,Asia,2024,5.166,5.83364,0.6161,70,0.49173
+484,17,Ireland,Ireland,Northern Europe,Europa,2024,6.838,9.94539,0.85979,76,0.87756
+492,5,Israel,Israel,Western Asia,Asia,2024,7.3411,8.42288,0.93583,78,0.74301
+500,41,Italy,Italy,Southern Europe,Europa,2024,6.3235,8.40988,0.82166,77,0.5942
+508,94,Ivory Coast,Côte d'Ivoire,Western Africa,África,2024,5.0801,5.04612,0.35733,64,0.63354
+516,66,Jamaica,Jamaica,Caribbean,America,2024,5.8417,5.98077,0.81892,72,0.74933
+524,51,Japan,Japan,Eastern Asia,Asia,2024,6.0598,8.34247,0.83783,79,0.73149
+532,122,Jordan,Jordan,Western Asia,Asia,2024,4.1858,5.89711,0.60807,73,0.68713
+540,49,Kazakhstan,Kazakhstan,Central Asia,Asia,2024,6.1875,7.57991,0.9011,72,0.84855
+548,111,Kenya,Kenya,Eastern Africa,África,2024,4.4696,4.84339,0.55387,66,0.60069
+556,29,Kosovo,Kosovo,Southern Europe,Europa,2024,6.561,6.37339,0.78985,73,0.85638
+563,13,Kuwait,Kuwait,Western Asia,Asia,2024,6.9514,8.61974,0.84357,75,0.95743
+571,74,Kyrgyzstan,Kyrgyzstan,Central Asia,Asia,2024,5.7135,4.92532,0.91364,73,0.96634
+578,92,Laos,Laos,South-eastern Asia,Asia,2024,5.1389,5.64568,0.52353,68,0.92255
+586,46,Latvia,Latvia,Northern Europe,Europa,2024,6.2345,7.94337,0.93316,72,0.77177
+594,139,Lebanon,Lebanon,Western Asia,Asia,2024,2.7065,6.43174,0.35676,72,0.20065
+601,138,Lesotho,Lesotho,Southern Africa,África,2024,3.1862,3.60103,0.52618,55,0.60601
+609,118,Liberia,Liberia,Western Africa,África,2024,4.2686,2.89078,0.41648,64,0.63225
+616,65,Libya,Libya,Northern Africa,África,2024,5.8663,7.12751,0.68047,72,0.68538
+624,19,Lithuania,Lithuania,Northern Europe,Europa,2024,6.8175,8.24885,0.8992,73,0.61701
+632,8,Luxembourg,Luxembourg,Western Europe,Europa,2024,7.1219,10.0,0.83799,77,0.92805
+644,120,Madagascar,Madagascar,Eastern Africa,África,2024,4.2279,2.93343,0.50942,65,0.29013
+652,133,Malawi,Malawi,Eastern Africa,África,2024,3.421,2.88206,0.25386,66,0.66127
+660,59,Malaysia,Malaysia,South-eastern Asia,Asia,2024,5.9752,7.68912,0.70737,71,0.95971
+670,119,Mali,Mali,Western Africa,África,2024,4.232,3.49171,0.42555,63,0.67842
+678,40,Malta,Malta,Southern Europe,Europa,2024,6.3458,8.535,0.89302,77,0.8421
+686,108,Mauritania,Mauritania,Western Africa,África,2024,4.5051,5.03457,0.43589,67,0.39683
+694,69,Mauritius,Mauritius,Eastern Africa,África,2024,5.8164,7.33663,0.83994,70,0.74224
+702,25,Mexico,Mexico,Central America,America,2024,6.678,7.10455,0.76782,72,0.83642
+710,70,Moldova,Moldova,Eastern Europe,Europa,2024,5.8159,6.4721,0.79008,72,0.80485
+718,76,Mongolia,Mongolia,Eastern Asia,Asia,2024,5.6962,6.31951,0.9345,67,0.58008
+726,75,Montenegro,Montenegro,Southern Europe,Europa,2024,5.707,7.33711,0.81532,73,0.73173
+734,104,Morocco,Morocco,Northern Africa,África,2024,4.7947,5.66892,0.2914,70,0.73101
+742,88,Mozambique,Mozambique,Eastern Africa,África,2024,5.2164,2.6151,0.54628,60,0.84337
+750,115,Myanmar,Myanmar,South-eastern Asia,Asia,2024,4.3545,4.56719,0.61126,68,0.52172
+758,103,Namibia,Namibia,Southern Africa,África,2024,4.8317,5.91607,0.74978,64,0.5441
+766,91,Nepal,Nepal,Southern Asia,Asia,2024,5.1584,4.50995,0.61254,69,0.75627
+774,6,Netherlands,Netherlands,Western Europe,Europa,2024,7.3194,8.87942,0.90444,76,0.83986
+782,11,New Zealand,New Zealand,Australia and New Zealand,Oceanía,2024,7.0292,8.45752,0.94458,75,0.86357
+790,43,Nicaragua,Nicaragua,Central America,America,2024,6.2839,5.1262,0.78144,72,0.91901
+798,106,Niger,Niger,Western Africa,África,2024,4.5563,2.67622,0.41904,64,0.7118
+806,100,Nigeria,Nigeria,Western Africa,África,2024,4.8808,4.86691,0.66531,63,0.65538
+810,83,North Macedonia,North Macedonia,Southern Europe,Europa,2024,5.3691,6.8923,0.78971,72,0.6715
+818,7,Norway,Norway,Northern Europe,Europa,2024,7.3017,9.11908,0.93815,76,0.96762
+826,105,Pakistan,Pakistan,Southern Asia,Asia,2024,4.6567,4.99198,0.3714,65,0.62774
+840,39,Panama,Panama,Central America,America,2024,6.3582,7.95002,0.8611,74,0.83389
+848,57,Paraguay,Paraguay,South America,America,2024,5.9765,6.53179,0.87101,72,0.91225
+856,67,Peru,Peru,South America,America,2024,5.8409,6.40313,0.72994,75,0.71218
+864,53,Philippines,Philippines,South-eastern Asia,Asia,2024,6.0476,5.75533,0.7089,68,0.95708
+872,35,Poland,Poland,Eastern Europe,Europa,2024,6.4415,8.11814,0.8768,74,0.69503
+880,55,Portugal,Portugal,Southern Europe,Europa,2024,6.0296,8.07075,0.84609,76,0.87646
+891,32,Romania,Romania,Eastern Europe,Europa,2024,6.4912,7.93747,0.76443,73,0.83
+899,71,Russia,Russia,Eastern Europe,Europa,2024,5.7853,7.67194,0.83586,71,0.63875
+913,28,Saudi Arabia,Saudi Arabia,Western Asia,Asia,2024,6.5935,8.60725,0.84171,71,0.91172
+921,97,Senegal,Senegal,Western Africa,África,2024,4.9686,4.3324,0.46438,67,0.7028
+929,37,Serbia,Serbia,Southern Europe,Europa,2024,6.4108,7.18435,0.86079,73,0.76822
+937,137,Sierra Leone,Sierra Leone,Western Africa,África,2024,3.2452,3.05663,0.35012,63,0.54328
+945,30,Singapore,Singapore,South-eastern Asia,Asia,2024,6.5228,9.89526,0.84207,78,0.86056
+953,45,Slovakia,Slovakia,Eastern Europe,Europa,2024,6.2571,7.96789,0.95284,74,0.65609
+961,21,Slovenia,Slovenia,Southern Europe,Europa,2024,6.7433,8.3419,0.92928,76,0.91448
+972,82,South Africa,South Africa,Southern Africa,África,2024,5.422,6.48958,0.84704,65,0.62153
+980,52,South Korea,South Korea,Eastern Asia,Asia,2024,6.0579,8.47919,0.72875,78,0.64248
+992,36,Spain,Spain,Southern Europe,Europa,2024,6.4209,8.25122,0.90975,77,0.71697
+1000,125,Sri Lanka,Sri Lanka,Southern Asia,Asia,2024,3.8981,6.35814,0.72914,73,0.67536
+1014,4,Sweden,Sweden,Northern Europe,Europa,2024,7.3441,8.77425,0.92843,77,0.97097
+1022,9,Switzerland,Switzerland,Western Europe,Europa,2024,7.0602,9.20463,0.88148,78,0.87934
+1033,31,Taiwan Province of China,Taiwan,Eastern Asia,Asia,2024,6.5035,8.60343,0.83257,75,0.75178
+1048,128,Tanzania,Tanzania,Eastern Africa,África,2024,3.7806,3.83149,0.43676,67,0.82153
+1056,58,Thailand,Thailand,South-eastern Asia,Asia,2024,5.9761,6.93387,0.83309,74,0.87531
+1064,121,Togo,Togo,Western Africa,África,2024,4.2141,3.54351,0.36257,65,0.52429
+1076,112,Tunisia,Tunisia,Northern Africa,África,2024,4.4218,6.1034,0.59058,73,0.29414
+1084,96,Turkiye,Türkiye,Western Asia,Asia,2024,4.9753,7.94937,0.72687,74,0.23407
+1098,114,Uganda,Uganda,Eastern Africa,África,2024,4.3717,3.60638,0.71189,66,0.68044
+1106,102,Ukraine,Ukraine,Eastern Europe,Europa,2024,4.873,6.30641,0.81364,71,0.73048
+1114,22,United Arab Emirates,United Arab Emirates,Western Asia,Asia,2024,6.7331,9.26467,0.72003,72,0.94401
+1122,20,United Kingdom,United Kingdom,Northern Europe,Europa,2024,6.749,8.51296,0.82035,75,0.82599
+1130,23,United States,United States,Northern America,America,2024,6.7248,9.05791,0.86094,72,0.67918
+1138,26,Uruguay,Uruguay,South America,America,2024,6.6115,7.45412,0.8855,73,0.89791
+1146,47,Uzbekistan,Uzbekistan,Central Asia,Asia,2024,6.195,5.66075,0.86264,71,0.96713
+1154,78,Venezuela,Venezuela,South America,America,2024,5.6067,6.244891428571428,0.8174,70,0.5999
+1162,54,Vietnam,Vietnam,South-eastern Asia,Asia,2024,6.043,6.21579,0.78378,71,0.97594
+1169,130,Yemen,Yemen,Western Asia,Asia,2024,3.561,3.13606,0.79273,64,0.41974
+1177,131,Zambia,Zambia,Eastern Africa,África,2024,3.5024,4.19978,0.50041,63,0.84216
+1185,135,Zimbabwe,Zimbabwe,Eastern Africa,África,2024,3.3411,3.49606,0.52587,62,0.56401
